@@ -4110,3 +4110,58 @@
 [2025-02-23 18:50:18.413] [I] Empty history info files: 0 (0 removed)
 [2025-02-23 18:50:18.413] [I] Pasters restored
 [2025-02-23 18:50:18.413] [I] Launch time: 215 ms
+[2025-02-25 23:51:09.961] [I] ***************************************************************
+[2025-02-25 23:51:09.961] [I] Snipaste 2.10.5 for Linux (Qt 6.2.4)
+[2025-02-25 23:51:09.961] [I] OS: Arch Linux [6.12.15-1-lts]
+[2025-02-25 23:51:09.961] [I] Cores: 16
+[2025-02-25 23:51:09.961] [I] Log level: 2
+[2025-02-25 23:51:09.961] [I] Application dir: /opt/snipaste/bin
+[2025-02-25 23:51:09.961] [I] Working dir: /home/hhikr
+[2025-02-25 23:51:09.961] [I] Config: /home/hhikr/Dotfiles/snipaste/.snipaste/config.ini
+[2025-02-25 23:51:09.961] [I] Library paths: (/opt/snipaste/plugins, /opt/snipaste/bin)
+[2025-02-25 23:51:09.961] [I] Screen scale: 1.25
+[2025-02-25 23:51:09.961] [I] Retina factor: 1
+[2025-02-25 23:51:09.961] [I] Screens: 1
+[2025-02-25 23:51:09.961] [I]     QRect(0, 0, 2560 x 1600), NAME = "eDP-1", DPI = 120 , DPR = 1
+[2025-02-25 23:51:09.961] [I] Desktops: 2
+[2025-02-25 23:51:09.961] [I] About to import settings from: /home/hhikr/Dotfiles/snipaste/.snipaste/config.ini
+[2025-02-25 23:51:09.964] [I] Settings imported
+[2025-02-25 23:51:09.974] [I] Restart: normal; as child process
+
+
+[2025-02-25 23:51:09.998] [I] ***************************************************************
+[2025-02-25 23:51:09.998] [I] Snipaste 2.10.5 for Linux (Qt 6.2.4)
+[2025-02-25 23:51:09.998] [I] OS: Arch Linux [6.12.15-1-lts]
+[2025-02-25 23:51:09.998] [I] Cores: 16
+[2025-02-25 23:51:09.998] [I] Log level: 2
+[2025-02-25 23:51:09.998] [I] Application dir: /opt/snipaste/bin
+[2025-02-25 23:51:09.998] [I] Working dir: /home/hhikr
+[2025-02-25 23:51:09.998] [I] Config: /home/hhikr/Dotfiles/snipaste/.snipaste/config.ini
+[2025-02-25 23:51:09.998] [I] Library paths: (/opt/snipaste/plugins, /opt/snipaste/bin)
+[2025-02-25 23:51:09.998] [I] Screen scale: 1.25
+[2025-02-25 23:51:09.998] [I] Retina factor: 1
+[2025-02-25 23:51:09.998] [I] Screens: 1
+[2025-02-25 23:51:09.998] [I]     QRect(0, 0, 2560 x 1600), NAME = "eDP-1", DPI = 120 , DPR = 1
+[2025-02-25 23:51:09.998] [I] Desktops: 2
+[2025-02-25 23:51:09.998] [I] About to import settings from: /home/hhikr/Dotfiles/snipaste/.snipaste/config.ini
+[2025-02-25 23:51:10.001] [I] Settings imported
+[2025-02-25 23:51:10.201] [I] OpenGL acceleration: true
+[2025-02-25 23:51:10.204] [I] Initializing Snipaste...
+[2025-02-25 23:51:10.264] [I] Prefetch...
+[2025-02-25 23:51:10.278] [I] About to apply settings...
+[2025-02-25 23:51:10.281] [I] Settings applied
+[2025-02-25 23:51:10.281] [I] Load default ssl configuration: 16 ms
+[2025-02-25 23:51:10.281] [I] Log level set to: 2
+[2025-02-25 23:51:10.284] [I] History dir: /home/hhikr/.snipaste/history
+[2025-02-25 23:51:10.284] [I] Header version: 201
+[2025-02-25 23:51:10.284] [I] About to restore pasters...
+[2025-02-25 23:51:10.284] [I] Group 0 [MW61GT]: "Default"
+[2025-02-25 23:51:10.284] [I] Record version: 201
+[2025-02-25 23:51:10.284] [I] To restore: 0
+[2025-02-25 23:51:10.284] [I] Pasters touched
+[2025-02-25 23:51:10.284] [I] All pasters activated: true
+[2025-02-25 23:51:10.294] [I] Unref images: 0 (0 removed)
+[2025-02-25 23:51:10.294] [I] Unref dirs: 0 (0 removed)
+[2025-02-25 23:51:10.294] [I] Empty history info files: 0 (0 removed)
+[2025-02-25 23:51:10.294] [I] Pasters restored
+[2025-02-25 23:51:10.294] [I] Launch time: 295 ms
