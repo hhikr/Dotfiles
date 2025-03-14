@@ -25,3 +25,11 @@ sudo ls /var/lib/mysql/
 sudo rm -rf /var/lib/mysql/*
 sudo ls /var/lib/mysql/
 zsh
+yay -Syu
+echo $http_proxy
+echo $https_proxy
+echo $HTTP_PROXY
+echo $HTTPS_PROXY
+yay -S gcc-go
+yay -S yay --rebuild
+zsh

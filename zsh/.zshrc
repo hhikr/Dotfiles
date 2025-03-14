@@ -122,10 +122,25 @@ if [[ ! -d $ZSH_CACHE_DIR ]]; then
 fi
 
 source $ZSH/oh-my-zsh.sh
+eval "$(zoxide init zsh)"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 source /usr/share/nvm/init-nvm.sh
 unalias ls
-alias ls="eza --icons"
+alias ls="eza --icons=always"
 alias stow="stow -v"
+alias cat="bat"
+alias cd="z"
+export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
+export PATH="$PATH:$GEM_HOME/bin"
+export CLASSPATH=/usr/local/lib/antlr-4.9.1-complete.jar:.
+alias antlr4='java -jar /usr/local/lib/antlr-4.9.1-complete.jar'
+# export http_proxy=http://127.0.0.1:7897
+# export https_proxy=https://127.0.0.1:7897
+export LANG=en_US.UTF-8
+setopt nonomatch
+# alias yay='https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 yay'
+
+# To customize prompt, run `p10k configure` or edit ~/Dotfiles/zsh/.p10k.zsh.
+[[ ! -f ~/Dotfiles/zsh/.p10k.zsh ]] || source ~/Dotfiles/zsh/.p10k.zsh
